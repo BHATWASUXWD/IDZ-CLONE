@@ -1,6 +1,5 @@
 #----------------------------[IMPORT/MODULE]-----------------------------------#
 import requests,bs4,json,os,sys,uuid,random,datetime,time,re
-from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
 from rich import pretty
 from rich.text import Text as tekz
